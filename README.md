@@ -1,2 +1,9 @@
-# Oleksandr Krasilia
-### DevOps / Linux System Administrator / Python 
+### Technology stack:
+- Linux
+- Docker
+- Kubernetes
+- Azure Microsoft
+- AWS
+- Terraform
+- Jenkins
+- Python, Bash, Go
