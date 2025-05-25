@@ -2,8 +2,7 @@
 - Linux
 - Docker
 - Kubernetes
-- Azure Microsoft
-- AWS
+- Azure Microsoft / AWS
 - Terraform
 - Jenkins
 - Python, Bash, Go
