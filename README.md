@@ -7,6 +7,5 @@
 - Python, Bash, Go
 
 ### Jast for fun stack:
-- Arduino
-- X-Box
-- Playstation
+- Arduino / Soldering
+- X-BOX / Playstation 
