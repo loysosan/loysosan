@@ -1,8 +1,12 @@
 ### Technology stack:
 - Linux
-- Docker
 - Kubernetes
 - Azure Microsoft / AWS
-- Terraform
-- Jenkins
+- Terraform / Ansible 
+- Jenkins / GitLab pipelines
 - Python, Bash, Go
+
+### Jast for fun stack:
+- Arduino
+- X-Box
+- Playstation
