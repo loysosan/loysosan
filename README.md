@@ -1,10 +1,11 @@
 ### Technology stack:
-- Linux
-- Kubernetes
-- Azure Microsoft / AWS
+- 🐧  Linux
+- ☸️ Kubernetes
+- ♾️ Azure Microsoft
+- ☁️ AWS
 - Terraform / Ansible 
 - Jenkins / GitLab pipelines
-- Python, Bash, Go
+- Python, Go, Bash
 
 ### Jast for fun stack:
 - Arduino / Soldering
