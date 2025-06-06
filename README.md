@@ -9,5 +9,5 @@
 - 🚀 Go
 
 ### Jast for fun stack:
-- Arduino / Soldering
-- X-BOX / Playstation 
+- 🔌 Arduino / Soldering
+- 🎮 X-BOX / Playstation 
