@@ -1,5 +1,5 @@
 ### Technology stack:
-- 🐧  Linux
+- 🐧 Linux
 - ☸️ Kubernetes
 - ♾️ Azure Microsoft
 - ☁️ AWS
