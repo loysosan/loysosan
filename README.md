@@ -5,8 +5,7 @@
 - ☁️ AWS
 - Terraform / Ansible 
 - Jenkins / GitLab pipelines
-- 🐍 Python, Bash
-- 🚀 Go
+- 🐍 Python, 🚀 Go
 
 ### Jast for fun stack:
 - 🔌 Arduino / Soldering
